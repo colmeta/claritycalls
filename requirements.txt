@@ -1,7 +1,3 @@
 flask
-   supabase
-   python-dotenv
-```
-3. Add a `Procfile`:
-```
-   web: python webhook_server.py
+supabase
+python-dotenv
